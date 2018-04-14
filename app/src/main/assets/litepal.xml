@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litepal>
+    <dbname value ="cool_weater"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.prism.coolweather.db.Province"/>
+        <mapping class="com.prism.coolweather.db.City"/>
+        <mapping class="com.prism.coolweather.db.County"/>
+    </list>
+</litepal>
