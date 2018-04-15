@@ -60,7 +60,7 @@
                 android:layout_centerInParent="true">
 
                 <TextView
-                    android:id="@+id/tv_pom25_text"
+                    android:id="@+id/tv_pm25_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"

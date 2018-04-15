@@ -29,4 +29,12 @@
         android:gravity="right"
         android:textColor="#fff" />
 
+    <TextView
+        android:id="@+id/tv_min_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:textColor="#fff" />
+
 </LinearLayout>
